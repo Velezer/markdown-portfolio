@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* i like the most difficulty
+* i like programming
+  * js, python, golang, php
